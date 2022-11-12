@@ -1,6 +1,8 @@
 # Git should ignore this file
 
 passwords.txt
+about.html
+
 
 .DS_Store
 src
